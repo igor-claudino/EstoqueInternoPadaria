@@ -4,11 +4,19 @@
 # Log file
 *.log
 
+#SQL Files
+*.sql
+
 # BlueJ files
 *.ctxt
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+
+/build/
+/dist/
+/nbproject/
+
 
 # Package Files #
 *.jar
